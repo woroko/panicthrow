@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Copyright 2018 John Mäkelä
 
 import pygame, time, math, os
 
